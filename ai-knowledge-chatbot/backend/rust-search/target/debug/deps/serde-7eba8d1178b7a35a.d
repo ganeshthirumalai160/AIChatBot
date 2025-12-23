@@ -1,0 +1,14 @@
+C:\workspace\ai-knowledge-chatbot\backend\rust-search\target\debug\deps\serde-7eba8d1178b7a35a.d: C:\Users\ganes\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\ganes\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\ganes\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\ganes\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\ganes\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\workspace\ai-knowledge-chatbot\backend\rust-search\target\debug\build\serde-291d5c27960f80df\out/private.rs
+
+C:\workspace\ai-knowledge-chatbot\backend\rust-search\target\debug\deps\libserde-7eba8d1178b7a35a.rlib: C:\Users\ganes\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\ganes\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\ganes\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\ganes\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\ganes\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\workspace\ai-knowledge-chatbot\backend\rust-search\target\debug\build\serde-291d5c27960f80df\out/private.rs
+
+C:\workspace\ai-knowledge-chatbot\backend\rust-search\target\debug\deps\libserde-7eba8d1178b7a35a.rmeta: C:\Users\ganes\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\ganes\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\ganes\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\ganes\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\ganes\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\workspace\ai-knowledge-chatbot\backend\rust-search\target\debug\build\serde-291d5c27960f80df\out/private.rs
+
+C:\Users\ganes\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\ganes\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\ganes\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\ganes\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\ganes\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+C:\workspace\ai-knowledge-chatbot\backend\rust-search\target\debug\build\serde-291d5c27960f80df\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\workspace\\ai-knowledge-chatbot\\backend\\rust-search\\target\\debug\\build\\serde-291d5c27960f80df\\out
